@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1713623082 source:c:\users\abdoa\desktop\c_projet\projet_avion\projet.c
+	<stdlib.h>
+	<assert.h>
+	<string.h>
+	<stdio.h>
+	"projet.h"
+
+1713622815 c:\users\abdoa\desktop\c_projet\projet_avion\projet.h
+
+1713970010 source:c:\users\abdoa\desktop\c_projet\projet_avion\main.c
+	<stdio.h>
+	"projet.h"
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1713970010 source:c:\users\abdoa\desktop\folders\cpi 1 2023_2024\c projects s2\c_projet\projet_avion\main.c
+	<stdio.h>
+	"projet.h"
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1713622815 c:\users\abdoa\desktop\folders\cpi 1 2023_2024\c projects s2\c_projet\projet_avion\projet.h
+
+1713623082 source:c:\users\abdoa\desktop\folders\cpi 1 2023_2024\c projects s2\c_projet\projet_avion\projet.c
+	<stdlib.h>
+	<assert.h>
+	<string.h>
+	<stdio.h>
+	"projet.h"
+
